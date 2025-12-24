@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Pretty Pretty",
+  "base_artist": "るか・もな・みき・みほ・ななせ・かな from AIKATSU☆STARS! with 大空あかり(cv:下地紫野)",
+  "createdAt": "2025-12-24T06:52:07.757028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Pretty Baby",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/01_Pretty_Pretty_Baby_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pretty Pretty",
+      "artist": "Black Oak Arkansas",
+      "has_synced": false,
+      "path": "select/02_Pretty_Pretty_Black_Oak_Arkansas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pretty, Pretty",
+      "artist": "Black Oak Arkansas",
+      "has_synced": false,
+      "path": "select/03_Pretty,_Pretty_Black_Oak_Arkansas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pretty, pretty STAR",
+      "artist": "Billy Corgan",
+      "has_synced": true,
+      "path": "select/04_Pretty,_pretty_STAR_Billy_Corgan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty, Pretty STAR",
+      "artist": "Billy Corgan",
+      "has_synced": false,
+      "path": "select/05_Pretty,_Pretty_STAR_Billy_Corgan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pretty Pretty Gang Gang",
+      "artist": "RuPaul",
+      "has_synced": true,
+      "path": "select/06_Pretty_Pretty_Gang_Gang_RuPaul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Pretty",
+      "artist": "Dead Poetic",
+      "has_synced": false,
+      "path": "select/07_Pretty_Pretty_Dead_Poetic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretty Pretty",
+      "artist": "PENTAGON",
+      "has_synced": true,
+      "path": "select/08_Pretty_Pretty_PENTAGON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretty Pretty (2020 Japanese Version)",
+      "artist": "PENTAGON",
+      "has_synced": true,
+      "path": "select/09_Pretty_Pretty_(2020_Japanese_Version)_PENTAGON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretty Pretty",
+      "artist": "The Early November",
+      "has_synced": false,
+      "path": "select/10_Pretty_Pretty_The_Early_November.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretty Pretty Girl",
+      "artist": "Stephen Jerzak",
+      "has_synced": true,
+      "path": "select/11_Pretty_Pretty_Girl_Stephen_Jerzak.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretty Pretty (remix) -   King Saha & Feffe  Bussi  (Official Video)",
+      "artist": "Feffe Bussi",
+      "has_synced": true,
+      "path": "select/12_Pretty_Pretty_(remix)_-_King_Saha_&_Feffe_Bussi_(Official_Video)_Feffe_Bussi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pretty Pretty Day",
+      "artist": "蔡依林",
+      "has_synced": true,
+      "path": "select/13_Pretty_Pretty_Day_蔡依林.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pretty Pretty Day",
+      "artist": "Jolin Tsai",
+      "has_synced": true,
+      "path": "select/14_Pretty_Pretty_Day_Jolin_Tsai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pretty Pretty",
+      "artist": "Pop Will Eat Itself",
+      "has_synced": false,
+      "path": "select/15_Pretty_Pretty_Pop_Will_Eat_Itself.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "bethamphetamine (pretty pretty) (Album Version)",
+      "artist": "Butch Walker",
+      "has_synced": true,
+      "path": "select/16_bethamphetamine_(pretty_pretty)_(Album_Version)_Butch_Walker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretty Pretty",
+      "artist": "るか・もな・みき・みほ・ななせ・かな from AIKATSU☆STARS! with 大空あかり(cv:下地紫野)",
+      "has_synced": false,
+      "path": "select/pl_01_Pretty_Pretty_るか・もな・みき・みほ・ななせ・かな_from_AIKATSU☆STARS!_with_大空あかり(cv_下地紫野).txt"
+    }
+  ]
+}
